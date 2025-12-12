@@ -233,18 +233,6 @@
 
 ---
 
-## 📞 Контакты
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-zaitseffdb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaitseffdb@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@Sonybvc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sonybvc)
-[![kwork](https://img.shields.io/badge/kwork-Профиль-FF6B00?style=for-the-badge)](https://kwork.ru/user/ваш_профиль)
-
-</div>
-
----
-
 ## 💡 Почему профиль новый, а опыт есть?
 
 До сентября 2025 работал в IT-компании на полную занятость — занимался интеграциями amoCRM/Kommo. Отдел сократили из-за реструктуризации (компания перешла на аутсорсинг). Решил попробовать фриланс и создал новый GitHub под бренд "Full-stack + Telegram + AI".
